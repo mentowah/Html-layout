@@ -24,7 +24,7 @@
 
 
 			<div class="content">
-					<h3><u>Welcome</u></h3>
+					<h3><u>Welcome to Web TechLiberia</u></h3>
 				<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. 
 					Integer ac feugiat felis, vel mattis est. Phasellus sit 
 					amet tellus tristique, mollis magna at, porta purus. 
